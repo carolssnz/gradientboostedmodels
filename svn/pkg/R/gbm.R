@@ -1,7 +1,7 @@
 
 .onAttach <- function(lib, pkg)
 {
-   library.dynam("gbm", pkg, lib)
+#   library.dynam("gbm", pkg, lib)
 #   require(survival)
 #   require(splines)
 #   require(lattice)
